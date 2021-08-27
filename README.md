@@ -11,12 +11,11 @@ Gracias por visitar mi perfil, soy Omar Fuentes y tengo 22 años.
 
 Mi horario en el Instituto Tecnológico de Tijuana
 
-| Lunes 	|  Martes 	|  Miércoles | Jueves | viernes | 
-|---------- |:--:	|:---:	|
-| 2PM - 3PM  | 20 	|  30 	|
-| 3PM - 4PM  | 11 	|  27 	|
-| 4PM - 5PM  | 22 	| 333 	|
-| 5PM - 6PM  | 22 	| 333 	|
-| 6PM - 7PM  | 22 	| 333 	|
-| 7PM - 8PM  | 22 	| 333 	|
-
+|                 |                Lunes                |                Martes               |              Miércoles              |                Jueves               |                         Viernes                         |
+|-----------------|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-------------------------------------------------------:|
+| 2:00PM - 3:00PM |        Lenguajes de Interfaz        |        Lenguajes de Interfaz        |        Lenguajes de Interfaz        |        Lenguajes de Interfaz        | Lenguajes de Interfaz  Gestión de Proyectos de software |
+| 3:00PM - 4:00PM |   Gestión de Proyectos de Software  |   Gestión de Proyectos de Software  |   Gestión de Proyectos de Software  |   Gestión de Proyectos de Software  |             Gestión de Proyectos de Software            |
+| 4:00PM - 5:00PM |          Patrones de Diseño         |          Patrones de Diseño         |          Patrones de Diseño         |          Patrones de Diseño         |                    Patrones de Diseño                   |
+| 5:00PM - 6:00PM |       Lenguajes y Autómatas I       |       Lenguajes y Autómatas I       |       Lenguajes y Autómatas I       |       Lenguajes y Autómatas I       |                 Lenguajes y Autómatas I                 |
+| 6:00PM - 7:00PM | Conmutación y enrutamiento de redes | Conmutación y enrutamiento de redes | Conmutación y enrutamiento de redes | Conmutación y enrutamiento de redes |           Conmutación y enrutamiento de redes           |
+| 7:00PM - 8:00PM |   Programación Lógica y Funcional   |   Programación Lógica y Funcional   |   Programación Lógica y Funcional   |   Programación Lógica y Funcional   |             Programación Lógica y Funcional             |
